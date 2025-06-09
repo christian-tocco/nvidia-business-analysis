@@ -1,2 +1,2 @@
 # nvidia-business-analysis
-Business and Financial analysis of NVIDIA using Python and its libraries
+Business and financial analysis of NVIDIA using Python libraries.
